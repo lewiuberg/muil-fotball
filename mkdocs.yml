@@ -1,0 +1,127 @@
+site_name: MUIL Fotball
+site_description: A web interface for MUIL Fotball players to get information about self development.
+site_url: "https://lewiuberg.github.io/muil-fotball/"
+repo_url: "https://github.com/lewiuberg/muil-fotball"
+repo_name: muil-fotball
+edit_uri: blob/muil-fotball/docs/
+author: Lewi Lie Uberg
+theme:
+  name: material
+  icon:
+    repo: fontawesome/brands/github
+  logo: assets/img/logo.png
+  favicon: assets/img/favicon.ico
+  language: en
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/lightbulb
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: deep purple
+      toggle:
+        icon: material/lightbulb-outline
+        name: Switch to light mode
+  features:
+    - search.suggest
+    - search.highlight
+    # - toc.integrate
+    - content.tabs.link
+    - navigation.top
+    - navigation.indexes
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.tracking
+    # - navigation.expand
+    # - navigation.sections
+    # - header.autohide
+plugins:
+  # - social:
+  - search:
+      separator: '[\s\-\.]'
+      # min_length: 2
+      # indexing:
+      #   "full"
+      # media_type: print
+      # enabled_if_env: ENABLE_PDF_EXPORT
+  - macros:
+      enabled_if_env: ENABLE_PDF_EXPORT
+markdown_extensions:
+  - toc:
+      permalink: true
+      title: "Table of Contents"
+      permalink_title: Anchor link to this section for reference
+  - markdown.extensions.footnotes
+  - markdown.extensions.attr_list
+  - markdown.extensions.def_list
+  - markdown.extensions.tables
+  - markdown.extensions.abbr
+  - markdown.extensions.md_in_html
+  - pymdownx.highlight:
+      # auto_title: true
+      # anchor_linenums: true
+      # linenums: true
+      # linenums_style: pymdownx-inline
+  - pymdownx.tasklist:
+      clickable_checkbox: true
+      custom_checkbox: true
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      # tabbed_code_style: pymdownx-inline
+  - pymdownx.betterem
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - admonition
+  # - footnotes
+  # - attr_list
+  # - md_in_html
+  # - tables
+extra:
+  social:
+    - icon: fontawesome/solid/network-wired
+      link: https://uberg.me
+      name: Author website
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/lewiuberg/
+      name: Author on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/lewiuberg
+      name: Author on GitHub
+    - icon: fontawesome/brands/medium
+      link: https://lewiuberg.medium.com
+      name: Author on Medium
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/user/lewiuberg/
+      name: Author on PyPI
+    - icon: fontawesome/brands/stack-overflow
+      link: https://stackoverflow.com/users/10685529/lewi-uberg
+      name: Author on Stack Overflow
+# extra_css:
+#   - css/extra.css
+#   - stylesheets/oad.css
+# extra_javascript:
+#   - javascripts/extra.js
+copyright: Copyright &copy; 2025 - 2025 Lewi Lie Uberg
+nav:
+  # - Home: /
+  - Oppvarming:
+      - oppvarming/index.md
+  - Egentrening:
+      - egentrening/index.md
+  # - People: /people/
+  # - About: /about/

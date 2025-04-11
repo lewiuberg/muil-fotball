@@ -8,11 +8,15 @@ Her er noen videoer som kan hjelpe deg med egentreningen:
 
 ### Teknikk
 
-<video controls width="600">
-  <!-- <source src="../assets/videos/teknikk/egentrening-1.mp4" type="video/mp4">
-   -->
-   <!-- https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/videos/Teknikk/egentrening-1.mp4 -->
+<video controls width="300">
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/Teknikk/egentrening-1.mp4?raw=true" type="video/mp4">
+  Din nettleser støtter dessverre ikke videoavspilling.
+</video>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<video controls width="300">
+   <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/Teknikk/egentrening-2.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
 

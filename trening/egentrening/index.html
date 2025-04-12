@@ -9,15 +9,19 @@
         <meta name="description" content="A web interface for MUIL Fotball players to get information about self development.">
       
       
+        <meta name="author" content="Lewi Lie Uberg">
       
-        <link rel="canonical" href="https://lewiuberg.github.io/muil-fotball/egentrening/">
+      
+        <link rel="canonical" href="https://lewiuberg.github.io/muil-fotball/trening/egentrening/">
       
       
         <link rel="prev" href="../oppvarming/">
       
       
+        <link rel="next" href="../../ferdighetsmerke/">
       
-      <link rel="icon" href="../assets/img/favicon.ico">
+      
+      <link rel="icon" href="../../assets/img/logo/favicon.ico">
       <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.6.11">
     
     
@@ -26,10 +30,10 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.4af4bdda.min.css">
+      <link rel="stylesheet" href="../../assets/stylesheets/main.4af4bdda.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.06af60db.min.css">
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.06af60db.min.css">
       
       
 
@@ -48,7 +52,9 @@
       
     
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
@@ -65,7 +71,7 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="deep-purple">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom">
   
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
@@ -88,9 +94,9 @@
 
 <header class="md-header" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
-    <a href=".." title="MUIL Fotball" class="md-header__button md-logo" aria-label="MUIL Fotball" data-md-component="logo">
+    <a href="../.." title="MUIL Fotball" class="md-header__button md-logo" aria-label="MUIL Fotball" data-md-component="logo">
       
-  <img src="../assets/img/logo.png" alt="logo">
+  <img src="../../assets/img/logo/logo_white.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -120,7 +126,7 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="deep-purple"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
     
       <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 0-7 7c0 2.38 1.19 4.47 3 5.74V17a1 1 0 0 0 1 1h6a1 1 0 0 0 1-1v-2.26c1.81-1.27 3-3.36 3-5.74a7 7 0 0 0-7-7M9 21a1 1 0 0 0 1 1h4a1 1 0 0 0 1-1v-1H9z"/></svg>
@@ -130,7 +136,7 @@
     
     
     
-    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="deep-purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="slate" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
     
       <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2a7 7 0 0 1 7 7c0 2.38-1.19 4.47-3 5.74V17a1 1 0 0 1-1 1H9a1 1 0 0 1-1-1v-2.26C6.19 13.47 5 11.38 5 9a7 7 0 0 1 7-7M9 21v-1h6v1a1 1 0 0 1-1 1h-4a1 1 0 0 1-1-1m3-17a5 5 0 0 0-5 5c0 2.05 1.23 3.81 3 4.58V16h4v-2.42c1.77-.77 3-2.53 3-4.58a5 5 0 0 0-5-5"/></svg>
@@ -218,17 +224,19 @@
   
   
   
+    
+  
   
     
     
-      <li class="md-tabs__item">
+      <li class="md-tabs__item md-tabs__item--active">
         <a href="../oppvarming/" class="md-tabs__link">
           
   
   
     
   
-  Oppvarming
+  Trening
 
         </a>
       </li>
@@ -240,19 +248,17 @@
   
   
   
-    
-  
   
     
     
-      <li class="md-tabs__item md-tabs__item--active">
-        <a href="./" class="md-tabs__link">
+      <li class="md-tabs__item">
+        <a href="../../ferdighetsmerke/" class="md-tabs__link">
           
   
   
     
   
-  Egentrening
+  Ferdighetsmerke
 
         </a>
       </li>
@@ -280,11 +286,13 @@
   
 
 
-<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  
+
+<nav class="md-nav md-nav--primary md-nav--lifted md-nav--integrated" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
-    <a href=".." title="MUIL Fotball" class="md-nav__button md-logo" aria-label="MUIL Fotball" data-md-component="logo">
+    <a href="../.." title="MUIL Fotball" class="md-nav__button md-logo" aria-label="MUIL Fotball" data-md-component="logo">
       
-  <img src="../assets/img/logo.png" alt="logo">
+  <img src="../../assets/img/logo/logo_white.png" alt="logo">
 
     </a>
     MUIL Fotball
@@ -303,6 +311,200 @@
     </div>
   
   <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+    
+    
+    
+      
+        
+        
+      
+      
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_1" id="__nav_1_label" tabindex="">
+            
+  
+  
+  <span class="md-ellipsis">
+    Trening
+    
+  </span>
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_1">
+            <span class="md-nav__icon md-icon"></span>
+            Trening
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../oppvarming/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    Oppvarming
+    
+  </span>
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    Egentrening
+    
+  </span>
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    Egentrening
+    
+  </span>
+  
+
+      </a>
+      
+        
+
+  
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of Contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of Contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ballkontroll" class="md-nav__link">
+    <span class="md-ellipsis">
+      Ballkontroll
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#plyometrisk-trening" class="md-nav__link">
+    <span class="md-ellipsis">
+      Plyometrisk trening
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#dribling" class="md-nav__link">
+    <span class="md-ellipsis">
+      Dribling
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#avslutning" class="md-nav__link">
+    <span class="md-ellipsis">
+      Avslutning
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tips-til-egentrening" class="md-nav__link">
+    <span class="md-ellipsis">
+      Tips til Egentrening
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
     
       
       
@@ -328,16 +530,16 @@
       
         
         
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_1" >
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" >
         
           
           <div class="md-nav__link md-nav__container">
-            <a href="../oppvarming/" class="md-nav__link ">
+            <a href="../../ferdighetsmerke/" class="md-nav__link ">
               
   
   
   <span class="md-ellipsis">
-    Oppvarming
+    Ferdighetsmerke
     
   </span>
   
@@ -346,73 +548,10 @@
             
           </div>
         
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_1_label" aria-expanded="false">
-          <label class="md-nav__title" for="__nav_1">
-            <span class="md-nav__icon md-icon"></span>
-            Oppvarming
-          </label>
-          <ul class="md-nav__list" data-md-scrollfix>
-            
-              
-            
-          </ul>
-        </nav>
-      
-    </li>
-  
-
-    
-      
-      
-  
-  
-    
-  
-  
-  
-    
-    
-      
-        
-          
-        
-      
-    
-    
-    
-      
-        
-        
-      
-      
-    
-    
-    <li class="md-nav__item md-nav__item--active md-nav__item--section md-nav__item--nested">
-      
-        
-        
-        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_2" checked>
-        
-          
-          <div class="md-nav__link md-nav__container">
-            <a href="./" class="md-nav__link md-nav__link--active">
-              
-  
-  
-  <span class="md-ellipsis">
-    Egentrening
-    
-  </span>
-  
-
-            </a>
-            
-          </div>
-        
-        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="true">
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_2_label" aria-expanded="false">
           <label class="md-nav__title" for="__nav_2">
             <span class="md-nav__icon md-icon"></span>
-            Egentrening
+            Ferdighetsmerke
           </label>
           <ul class="md-nav__list" data-md-scrollfix>
             
@@ -432,76 +571,6 @@
               </div>
             
             
-              
-              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
-                <div class="md-sidebar__scrollwrap">
-                  <div class="md-sidebar__inner">
-                    
-
-  
-
-<nav class="md-nav md-nav--secondary" aria-label="Table of Contents">
-  
-  
-  
-    
-  
-  
-    <label class="md-nav__title" for="__toc">
-      <span class="md-nav__icon md-icon"></span>
-      Table of Contents
-    </label>
-    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
-      
-        <li class="md-nav__item">
-  <a href="#videoer" class="md-nav__link">
-    <span class="md-ellipsis">
-      Videoer
-    </span>
-  </a>
-  
-    <nav class="md-nav" aria-label="Videoer">
-      <ul class="md-nav__list">
-        
-          <li class="md-nav__item">
-  <a href="#ballkontroll" class="md-nav__link">
-    <span class="md-ellipsis">
-      Ballkontroll
-    </span>
-  </a>
-  
-</li>
-        
-          <li class="md-nav__item">
-  <a href="#plyometrisk-trening" class="md-nav__link">
-    <span class="md-ellipsis">
-      Plyometrisk trening
-    </span>
-  </a>
-  
-</li>
-        
-      </ul>
-    </nav>
-  
-</li>
-      
-        <li class="md-nav__item">
-  <a href="#tips-til-egentrening" class="md-nav__link">
-    <span class="md-ellipsis">
-      Tips til Egentrening
-    </span>
-  </a>
-  
-</li>
-      
-    </ul>
-  
-</nav>
-                  </div>
-                </div>
-              </div>
-            
           
           
             <div class="md-content" data-md-component="content">
@@ -516,9 +585,9 @@
 
 <h1 id="egentrening">Egentrening<a class="headerlink" href="#egentrening" title="Anchor link to this section for reference">&para;</a></h1>
 <p>Egentrening er en viktig del av å utvikle seg som fotballspiller. Det gir deg muligheten til å fokusere på dine egne ferdigheter, forbedre svakheter og bygge selvtillit. Ved å trene på egen hånd kan du også utvikle disiplin og dedikasjon, som er essensielle egenskaper både på og utenfor banen.</p>
-<h2 id="videoer">Videoer<a class="headerlink" href="#videoer" title="Anchor link to this section for reference">&para;</a></h2>
-<p>Her er noen videoer som kan hjelpe deg med egentreningen:</p>
-<h3 id="ballkontroll">Ballkontroll<a class="headerlink" href="#ballkontroll" title="Anchor link to this section for reference">&para;</a></h3>
+<h2 id="ballkontroll">Ballkontroll<a class="headerlink" href="#ballkontroll" title="Anchor link to this section for reference">&para;</a></h2>
+<p>Ballkontroll er en viktig ferdighet for enhver fotballspiller. Det handler om å kunne håndtere ballen på en effektiv måte, både med og uten motstand.
+Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen videoer som viser forskjellige øvelser for å forbedre ballkontrollen din.</p>
 <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-1.png?raw=true">
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-1.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
@@ -532,7 +601,7 @@
 </video>
 <p>Kilde: <a href="https://www.facebook.com/reel/1161947338577807" target="_blank">Facebook</a></p>
 
-<h3 id="plyometrisk-trening">Plyometrisk trening<a class="headerlink" href="#plyometrisk-trening" title="Anchor link to this section for reference">&para;</a></h3>
+<h2 id="plyometrisk-trening">Plyometrisk trening<a class="headerlink" href="#plyometrisk-trening" title="Anchor link to this section for reference">&para;</a></h2>
 <p>Plyometrisk trening er en form for trening som fokuserer på å utvikle eksplosiv styrke og hurtighet. Dette kan være spesielt nyttig for fotballspillere, da det kan forbedre både sprint og hopp.</p>
 <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/plyometrisk/plyometrisk-1.png?raw=true">
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/plyometrisk/plyometrisk-1.mp4?raw=true" type="video/mp4">
@@ -540,6 +609,10 @@
 </video>
 <p>Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
 
+<h2 id="dribling">Dribling<a class="headerlink" href="#dribling" title="Anchor link to this section for reference">&para;</a></h2>
+<p>Kommer ettter hvert :)</p>
+<h2 id="avslutning">Avslutning<a class="headerlink" href="#avslutning" title="Anchor link to this section for reference">&para;</a></h2>
+<p>Kommer ettter hvert :)</p>
 <h2 id="tips-til-egentrening">Tips til Egentrening<a class="headerlink" href="#tips-til-egentrening" title="Anchor link to this section for reference">&para;</a></h2>
 <ul>
 <li>Sett deg klare mål for hva du ønsker å oppnå.</li>
@@ -554,6 +627,9 @@
 
 
 
+
+  
+  
 
 
 
@@ -660,10 +736,10 @@
     
     
       
-      <script id="__config" type="application/json">{"base": "..", "features": ["search.suggest", "search.highlight", "content.tabs.link", "navigation.top", "navigation.indexes", "navigation.tabs"], "search": "../assets/javascripts/workers/search.f8cc74c7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+      <script id="__config" type="application/json">{"base": "../..", "features": ["search.suggest", "search.highlight", "toc.integrate", "content.tabs.link", "navigation.top", "navigation.indexes", "navigation.tabs"], "search": "../../assets/javascripts/workers/search.f8cc74c7.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
     
     
-      <script src="../assets/javascripts/bundle.c8b220af.min.js"></script>
+      <script src="../../assets/javascripts/bundle.c8b220af.min.js"></script>
       
     
   </body>

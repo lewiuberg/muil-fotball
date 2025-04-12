@@ -2,11 +2,10 @@
 
 Egentrening er en viktig del av å utvikle seg som fotballspiller. Det gir deg muligheten til å fokusere på dine egne ferdigheter, forbedre svakheter og bygge selvtillit. Ved å trene på egen hånd kan du også utvikle disiplin og dedikasjon, som er essensielle egenskaper både på og utenfor banen.
 
-## Videoer
+## Ballkontroll
 
-Her er noen videoer som kan hjelpe deg med egentreningen:
-
-### Ballkontroll
+Ballkontroll er en viktig ferdighet for enhver fotballspiller. Det handler om å kunne håndtere ballen på en effektiv måte, både med og uten motstand.
+Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen videoer som viser forskjellige øvelser for å forbedre ballkontrollen din.
 
 <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-1.png?raw=true">
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-1.mp4?raw=true" type="video/mp4">
@@ -22,7 +21,7 @@ Her er noen videoer som kan hjelpe deg med egentreningen:
 </video>
 <p>Kilde: <a href="https://www.facebook.com/reel/1161947338577807" target="_blank">Facebook</a></p>
 
-### Plyometrisk trening
+## Plyometrisk trening
 
 Plyometrisk trening er en form for trening som fokuserer på å utvikle eksplosiv styrke og hurtighet. Dette kan være spesielt nyttig for fotballspillere, da det kan forbedre både sprint og hopp.
 
@@ -31,6 +30,14 @@ Plyometrisk trening er en form for trening som fokuserer på å utvikle eksplosi
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
 <p>Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
+
+## Dribling
+
+Kommer ettter hvert :)
+
+## Avslutning
+
+Kommer ettter hvert :)
 
 ## Tips til Egentrening
 

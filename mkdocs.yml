@@ -9,19 +9,19 @@ theme:
   name: material
   icon:
     repo: fontawesome/brands/github
-  logo: assets/img/logo.png
-  favicon: assets/img/favicon.ico
+  logo: assets/img/logo/logo_white.png
+  favicon: assets/img/logo/favicon.ico
   language: en
   palette:
     - scheme: default
-      primary: indigo
-      accent: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/lightbulb
         name: Switch to dark mode
     - scheme: slate
-      primary: indigo
-      accent: deep purple
+      primary: custom
+      accent: custom
       toggle:
         icon: material/lightbulb-outline
         name: Switch to light mode
@@ -111,9 +111,8 @@ extra:
     - icon: fontawesome/brands/stack-overflow
       link: https://stackoverflow.com/users/10685529/lewi-uberg
       name: Author on Stack Overflow
-# extra_css:
-#   - css/extra.css
-#   - stylesheets/oad.css
+extra_css:
+  - stylesheets/extra.css
 # extra_javascript:
 #   - javascripts/extra.js
 copyright: Copyright &copy; 2025 - 2025 Lewi Lie Uberg

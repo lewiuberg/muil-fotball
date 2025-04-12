@@ -1,3 +1,7 @@
+---
+author: "Lewi Lie Uberg"
+---
+
 # Egentrening
 
 Egentrening er en viktig del av å utvikle seg som fotballspiller. Det gir deg muligheten til å fokusere på dine egne ferdigheter, forbedre svakheter og bygge selvtillit. Ved å trene på egen hånd kan du også utvikle disiplin og dedikasjon, som er essensielle egenskaper både på og utenfor banen.

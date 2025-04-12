@@ -1,3 +1,7 @@
+---
+author: "Lewi Lie Uberg"
+---
+
 # Oppvarming
 
 Øvelsene er inspirert av skadefri.no, og Preben "Legenden" Rønningen, som anbefales for fotballspillere på alle nivåer. For mer informasjon, se: [Skadefri Fotball](https://skadefri.no/idretter/fotball/skadefri-fotball/).

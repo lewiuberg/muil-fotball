@@ -28,7 +28,7 @@ theme:
   features:
     - search.suggest
     - search.highlight
-    # - toc.integrate
+    - toc.integrate
     - content.tabs.link
     - navigation.top
     - navigation.indexes
@@ -118,9 +118,8 @@ extra_css:
 copyright: Copyright &copy; 2025 - 2025 Lewi Lie Uberg
 nav:
   # - Home: /
-  - Oppvarming:
-      - oppvarming/index.md
-  - Egentrening:
-      - egentrening/index.md
-  # - People: /people/
-  # - About: /about/
+  - Trening:
+      - Oppvarming: trening/oppvarming.md
+      - Egentrening: trening/egentrening.md
+  - Ferdighetsmerke:
+      - ferdighetsmerke/index.md

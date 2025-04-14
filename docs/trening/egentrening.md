@@ -48,7 +48,7 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-3.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
-<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1625209828383858" target="_blank">Facebook</a></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -56,7 +56,7 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-4.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
-<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1573913949960909" target="_blank">Facebook</a></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -64,7 +64,7 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-5.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
-<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1161947338577807" target="_blank">Facebook</a></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -72,7 +72,7 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-6.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
-<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/9413257655427084" target="_blank">Facebook</a></p>
 
 ## Passninger
 

@@ -32,7 +32,7 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-1.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
-<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/9413257655427084" target="_blank">Facebook</a></p>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/627862289922698" target="_blank">Facebook</a></p>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,7 +40,39 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-2.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
-<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1161947338577807" target="_blank">Facebook</a></p>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-3.png?raw=true" style="margin-bottom: 0;">
+   <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-3.mp4?raw=true" type="video/mp4">
+  Din nettleser støtter dessverre ikke videoavspilling.
+</video>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-4.png?raw=true" style="margin-bottom: 0;">
+   <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-4.mp4?raw=true" type="video/mp4">
+  Din nettleser støtter dessverre ikke videoavspilling.
+</video>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-5.png?raw=true" style="margin-bottom: 0;">
+   <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-5.mp4?raw=true" type="video/mp4">
+  Din nettleser støtter dessverre ikke videoavspilling.
+</video>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-6.png?raw=true" style="margin-bottom: 0;">
+   <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-6.mp4?raw=true" type="video/mp4">
+  Din nettleser støtter dessverre ikke videoavspilling.
+</video>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
 
 ## Passninger
 

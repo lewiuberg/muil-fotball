@@ -2,9 +2,9 @@
 author: "Lewi Lie Uberg"
 ---
 
-# Gutter 2013
+# Treningsplan
 
-Treningsplan for Gutter 2013. Denne planen er laget for å gi en oversikt over hva som kan gjøres i løpet av treningsøktene. Den brukes som en mal og kan tilpasses etter behov og spillernes ferdighetsnivå. Om de faste trenerene ikke er tilgjengelig, kan vikar trenere bruke denne planen som en guide.
+Forslag til treningsplan for barn i alderen 10-14 år. Denne planen er laget for å gi en oversikt over hva som kan gjøres i løpet av treningsøktene. Den brukes som en mal og kan tilpasses etter behov og spillernes ferdighetsnivå. Om de faste trenerene ikke er tilgjengelig, kan vikar trenere bruke denne planen som en guide.
 
 ??? muil "Informasjon til de involvert"
 
@@ -217,15 +217,15 @@ Forbedre spillerens evne til å forsvare og angripe som et lag.
 
 Fokus på lagarbeid og samspill.
 
-### Formål:
-
-Forbedre spillerens evne til å bruke tekniske ferdigheter, taktiske kunnskaper i kamp, og kommunikasjon med lagkamerater i en kamp situasjon.
-
-### Varighet:
-
+<img src="../../assets/img/timer.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Varighet:**<br>
 30 minutter
+<br><br>
 
-### Gjennomføring:
+<img src="../../assets/img/mission.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;">**Formål:**<br>
+Forbedre spillerens evne til å bruke tekniske ferdigheter, taktiske kunnskaper i kamp, og kommunikasjon med lagkamerater i en kamp situasjon.
+<br><br>
+
+<img src="../../assets/img/complete.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Gjennomføring:**
 
 - Spill på egnet banestørrelse (f.eks. 5v5 eller 7v7) alt etter som oppmøtte spillere.
 - Fokus på lagarbeid med og uten ball.
@@ -247,6 +247,16 @@ Forbedre spillerens evne til å avslutte presist og kraftfullt.
 10 minutter
 
 ### Gjennomføring:
+
+<img src="../../assets/img/timer.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Varighet:**<br>
+10 minutter
+<br><br>
+
+<img src="../../assets/img/mission.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;">**Formål:**<br>
+Forbedre spillerens evne til å forsvare og angripe som et lag.
+<br><br>
+
+<img src="../../assets/img/complete.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Gjennomføring:**
 
 **Straffekonkurranse**:
 

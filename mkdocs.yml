@@ -126,7 +126,6 @@ nav:
   - Trening:
       - Oppvarming: trening/oppvarming.md
       - Egentrening: trening/egentrening.md
-      - Treningsplan for lag:
-          - treningsplan/g2013.md
+      - Treningsplan: trening/treningsplan.md
   - Ferdighetsmerke:
       - ferdighetsmerke/index.md

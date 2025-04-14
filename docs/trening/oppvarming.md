@@ -1,47 +1,54 @@
----
-author: "Lewi Lie Uberg"
----
-
-# Oppvarming
-
 Øvelsene er inspirert av skadefri.no, og Preben "Legenden" Rønningen, som anbefales for fotballspillere på alle nivåer. For mer informasjon, se: [Skadefri Fotball](https://skadefri.no/idretter/fotball/skadefri-fotball/).
 
 - Hold intensiteten moderat til høy, men fokus på teknisk riktig utførelse.
 - Bygg inn progresjon i intensitet etter hvert som oppvarmingen skrider frem.
 - Oppmuntre til selvstendighet ved at spillerne lærer oppvarmingsrutinen godt og bytter på å velge øvelser.
+  <br><br>
 
-## Formål:
-
-Forebygge skader og forberede spillerne på trening/kamp. Øvelsene er faste og kan gjennomføres av spillerne på egenhånd uten veiledning fra trenerne.
-
-## Varighet:
-
+<img src="../../assets/img/timer.png" alt="10 minutes" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Varighet:**<br>
 10 minutter
+<br><br>
 
-## Gjennomføring:
+<img src="../../assets/img/mission.png" alt="10 minutes" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;">**Formål:**<br>
+Forebygge skader og forberede spillerne på trening/kamp. Øvelsene er faste og kan gjennomføres av spillerne på egenhånd uten veiledning fra trenerne.
+<br><br>
 
-- Oppstilling: Spillere stiller opp i to rekker og jobber i par.
-- Rekkefølge: Første par velger øvelse for hver runde.
-- Distanse: Øvelsene gjennomføres over ca. 15 meter.
-- Etter hvert løp jogger spillerne ut på siden, gjentar øvelsen tilbake og stiller seg bakerst i køen for neste runde.
+<img src="../../assets/img/complete.png" alt="10 minutes" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Gjennomføring:**
 
-1. Rolig jogg (ca 10 ganger frem og tilbake).
+<div class="annotate" markdown>
+
+1. Rolig jogg. (1)
 2. Høye knær.
-3. Spark bak (hælene til baken).
-4. Sideveis løp (mot hverandre).
-5. Sideveis løp (fra hverandre).
-6. Symaskin (hurtige små sikk-sakk steg på stedet).
-7. Offensiv posisjon (lavt tyngdepunkt, fremover).
-8. Defensiv posisjon (lavt tyngdepunkt, bakover).
+3. Spark bak. (2)
+4. Sideveis løp mot hverandre.
+5. Sideveis løp fra hverandre.
+6. Symaskin. (3)
+7. Offensiv posisjon. (4)
+8. Defensiv posisjon. (5)
 9. Skudd med annenhver fot.
-10. Skudd bakover.
-11. Hopp med høye knær.
-12. Bein inn-til-ut (sirkler med hoftebevegelse).
-13. Bein ut-til-inn (sirkler med hoftebevegelse).
-14. Hopp med heading (imaginær ball).
-15. Parøvelse: Skulder mot skulder (små hopp med støt).
-16. Trippe på stedet (hurtige små steg) – reaksjon på fløytesignal for sprint:
+10. Skudd bakover. (6)
+11. Hopp med høye knær. (7)
+12. Bein inn-til-ut. (8)
+13. Bein ut-til-inn. (9)
+14. Hopp med heading. (10)
+15. Parøvelse: Skulder mot skulder. (11)
+16. Trippe på stedet. (12) - reaksjon på fløytesignal for sprint:
     1. Fremover.
     2. Med kroppen vendt mot høyre.
     3. Med kroppen vendt mot venstre.
     4. Bakover.
+
+</div>
+
+1. Ca 10 ganger frem og tilbake
+2. Hælene til baken
+3. Hurtige små sikk-sakk steg på stedet
+4. Lavt tyngdepunkt, fremover
+5. Lavt tyngdepunkt, bakover
+6. Harry Kane
+7. Jente hopp
+8. Sirkler med hoftebevegelse
+9. Sirkler med hoftebevegelse
+10. Imaginær ball
+11. Små hopp med støt
+12. Hurtige små steg

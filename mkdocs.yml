@@ -54,6 +54,8 @@ markdown_extensions:
       permalink: true
       title: "Table of Contents"
       permalink_title: Anchor link to this section for reference
+  - markdown_include.include:
+      base_path: docs
   - markdown.extensions.footnotes
   - markdown.extensions.attr_list
   - markdown.extensions.def_list
@@ -76,6 +78,9 @@ markdown_extensions:
   - pymdownx.tabbed:
       alternate_style: true
       # tabbed_code_style: pymdownx-inline
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.betterem
   - pymdownx.superfences
   - pymdownx.inlinehilite
@@ -121,5 +126,7 @@ nav:
   - Trening:
       - Oppvarming: trening/oppvarming.md
       - Egentrening: trening/egentrening.md
+      - Treningsplan for lag:
+          - treningsplan/g2013.md
   - Ferdighetsmerke:
       - ferdighetsmerke/index.md

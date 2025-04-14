@@ -17,26 +17,32 @@ Forebygge skader og forberede spillerne på trening/kamp. Øvelsene er faste og 
 
 <div class="annotate" markdown>
 
-1. Rolig jogg. (1)
-2. Høye knær.
-3. Spark bak. (2)
-4. Sideveis løp mot hverandre.
-5. Sideveis løp fra hverandre.
-6. Symaskin. (3)
-7. Offensiv posisjon. (4)
-8. Defensiv posisjon. (5)
-9. Skudd med annenhver fot.
-10. Skudd bakover. (6)
-11. Hopp med høye knær. (7)
-12. Bein inn-til-ut. (8)
-13. Bein ut-til-inn. (9)
-14. Hopp med heading. (10)
-15. Parøvelse: Skulder mot skulder. (11)
-16. Trippe på stedet. (12) - reaksjon på fløytesignal for sprint:
-    1. Fremover.
-    2. Med kroppen vendt mot høyre.
-    3. Med kroppen vendt mot venstre.
-    4. Bakover.
+??? muil "Tips"
+
+    Kryss av på hver øvelse under for å holde oversikt over hva som er gjort.
+
+    Det er lurt å lære spillerene en fast rekkefølge. Det vil da være lettere å huske hva som er gjort og hva som gjenstår når de skal varme opp på egenhånd.
+
+1. [ ] Rolig jogg. (1)
+2. [ ] Høye knær.
+3. [ ] Spark bak. (2)
+4. [ ] Sideveis løp mot hverandre.
+5. [ ] Sideveis løp fra hverandre.
+6. [ ] Symaskin. (3)
+7. [ ] Offensiv posisjon. (4)
+8. [ ] Defensiv posisjon. (5)
+9. [ ] Skudd med annenhver fot.
+10. [ ] Skudd bakover. (6)
+11. [ ] Hopp med høye knær. (7)
+12. [ ] Bein inn-til-ut. (8)
+13. [ ] Bein ut-til-inn. (9)
+14. [ ] Hopp med heading. (10)
+15. [ ] Parøvelse: Skulder mot skulder. (11)
+16. [ ] Trippe på stedet. (12) - reaksjon på fløytesignal for sprint:
+    1. [ ] Fremover.
+    2. [ ] Med kroppen vendt mot høyre.
+    3. [ ] Med kroppen vendt mot venstre.
+    4. [ ] Bakover.
 
 </div>
 

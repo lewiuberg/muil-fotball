@@ -234,34 +234,24 @@ Forbedre spillerens evne til å bruke tekniske ferdigheter, taktiske kunnskaper 
 
 ---
 
-## Avslutning / Konkurranse
+## Avslutning
 
 Fokus på presisjon og kraft i avslutningene.
-
-### Formål:
-
-Forbedre spillerens evne til å avslutte presist og kraftfullt.
-
-### Varighet:
-
-10 minutter
-
-### Gjennomføring:
 
 <img src="../../assets/img/timer.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Varighet:**<br>
 10 minutter
 <br><br>
 
 <img src="../../assets/img/mission.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;">**Formål:**<br>
-Forbedre spillerens evne til å forsvare og angripe som et lag.
+Forbedre spillerens evne til å avslutte presist og kraftfullt.
 <br><br>
 
 <img src="../../assets/img/complete.png" alt="missing image" style="width: 50px; height: 50px; vertical-align: middle; margin-bottom: 15px;"> **Gjennomføring:**
 
-**Straffekonkurranse**:
+=== "Straffekonkurranse"
 
-- Spillere tar straffespark mot keeper (rotér keeper om nødvendig).
+    - Spillere tar straffespark mot keeper (rotér keeper om nødvendig).
 
-**Nettsus**:
+=== "Nettsus"
 
-- Spiller avslutter på målets nett, først med kort avstand. Avstanden økes gradvis etter progresjon i aktiviteten.
+    - Spiller avslutter på målets nett, først med kort avstand. Avstanden økes gradvis etter progresjon i aktiviteten.

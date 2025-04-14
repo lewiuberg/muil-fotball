@@ -39,7 +39,7 @@ theme:
     # - navigation.sections
     # - header.autohide
 plugins:
-  # - social:
+  - social:
   - search:
       separator: '[\s\-\.]'
       # min_length: 2

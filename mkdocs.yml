@@ -1,5 +1,5 @@
 site_name: MUIL Fotball
-site_description: A web interface for MUIL Fotball players to get information about self development.
+site_description: Et webgrensesnitt for MUIL Fotball spillere for å få informasjon om selvutvikling.
 site_url: "https://lewiuberg.github.io/muil-fotball/"
 repo_url: "https://github.com/lewiuberg/muil-fotball"
 repo_name: muil-fotball
@@ -28,6 +28,7 @@ theme:
   features:
     - search.suggest
     - search.highlight
+    - search.share
     - toc.integrate
     - content.tabs.link
     - navigation.top
@@ -117,6 +118,20 @@ extra:
   analytics:
     provider: google
     property: G-X5TVX1RNG8
+    feedback:
+      title: Var denne siden nyttig?
+      ratings:
+        - icon: material/thumb-up-outline
+          name: Denne siden var nyttig
+          data: 1
+          note: >-
+            Takk for tilbakemeldingen!
+        - icon: material/thumb-down-outline
+          name: Denne siden kan forbedres
+          data: 0
+          note: >-
+            Takk for tilbakemeldingen! Hjelp oss med å forbedre denne siden ved
+            å bruke vårt <a href="..." target="_blank" rel="noopener">tilbakemeldingsskjema</a>.
   consent:
     title: Cookie consent
     description: >-

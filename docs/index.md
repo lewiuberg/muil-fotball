@@ -3,6 +3,7 @@ author: "Lewi Lie Uberg"
 hide:
   - navigation
   - toc
+  - feedback
 ---
 
 # Velkommen til Muil Fotball

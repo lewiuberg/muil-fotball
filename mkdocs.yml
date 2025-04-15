@@ -96,6 +96,7 @@ markdown_extensions:
   - pymdownx.details
   - admonition
 extra:
+  generator: false
   social:
     - icon: fontawesome/solid/network-wired
       link: https://uberg.me

@@ -1,5 +1,8 @@
 ---
 author: "Lewi Lie Uberg"
+hide:
+  - navigation
+  - toc
 ---
 
 # Velkommen til Muil Fotball

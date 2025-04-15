@@ -120,7 +120,7 @@ extra:
       name: Author on Stack Overflow
   analytics:
     - provider: google
-      tracking_id: G-X5TVX1RNG8
+      tracking_id: G-0S37F701KC
 extra_css:
   - stylesheets/extra.css
 # extra_javascript:

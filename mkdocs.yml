@@ -94,10 +94,6 @@ markdown_extensions:
   - pymdownx.tilde
   - pymdownx.details
   - admonition
-  # - footnotes
-  # - attr_list
-  # - md_in_html
-  # - tables
 extra:
   social:
     - icon: fontawesome/solid/network-wired
@@ -119,8 +115,8 @@ extra:
       link: https://stackoverflow.com/users/10685529/lewi-uberg
       name: Author on Stack Overflow
   analytics:
-    - provider: google
-      tracking_id: G-X5TVX1RNG8
+    provider: google
+    property: G-X5TVX1RNG8
   consent:
     title: Cookie consent
     description: >-

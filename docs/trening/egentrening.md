@@ -125,7 +125,7 @@ Her kommer noen videoer som viser forskjellige øvelser for å forbedre pasnings
       <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/passninger/passninger-2.mp4?raw=true" type="video/mp4">
       Din nettleser støtter dessverre ikke videoavspilling.
     </video>
-    <p style="margin: 0;">Kilde: <a href="https://www.youtube.com/shorts/iVzAYDF6SYQ" target="_blank">Facebook</a></p>
+    <p style="margin: 0;">Kilde: <a href="https://www.youtube.com/shorts/iVzAYDF6SYQ" target="_blank">YouTube</a></p>
   </div>
 
   <div style="flex: 0 0 auto; scroll-snap-align: start;">

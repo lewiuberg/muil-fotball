@@ -1,7 +1,7 @@
 site_name: MUIL Fotball
 site_description: Et webgrensesnitt for MUIL Fotball spillere for å få informasjon om selvutvikling.
 site_url: "https://lewiuberg.github.io/muil-fotball/"
-repo_url: "https://github.com/lewiuberg/muil-fotball"
+# repo_url: "https://github.com/lewiuberg/muil-fotball"
 repo_name: muil-fotball
 edit_uri: blob/muil-fotball/docs/
 author: Lewi Lie Uberg

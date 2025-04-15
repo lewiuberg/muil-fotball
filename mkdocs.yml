@@ -118,6 +118,9 @@ extra:
     - icon: fontawesome/brands/stack-overflow
       link: https://stackoverflow.com/users/10685529/lewi-uberg
       name: Author on Stack Overflow
+  analytics:
+    - provider: google
+      tracking_id: G-X5TVX1RNG8
 extra_css:
   - stylesheets/extra.css
 # extra_javascript:

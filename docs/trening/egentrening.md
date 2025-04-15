@@ -13,7 +13,7 @@ Egentrening er en viktig del av å utvikle seg som fotballspiller. Det gir deg m
 
 Lykke til med treningen!
 
-## Plyometrisk trening
+## Plyometrisk
 
 Plyometrisk trening er en form for trening som fokuserer på å utvikle eksplosiv styrke og hurtighet. Dette kan være spesielt nyttig for fotballspillere, da det kan forbedre både sprint og hopp.
 
@@ -103,17 +103,128 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
 Passninger er en av de mest grunnleggende ferdighetene i fotball. Det er viktig å kunne sende ballen presist til medspillere, og å kunne ta imot pasninger fra andre.
 Her kommer noen videoer som viser forskjellige øvelser for å forbedre pasningsferdighetene dine.
 
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 8px; scroll-snap-type: x mandatory;">
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/passninger/passninger-1.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/passninger/passninger-1.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/627862289922698" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/passninger/passninger-2.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/passninger/passninger-2.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/passninger/passninger-3.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/passninger/passninger-3.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1625209828383858" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/passninger/passninger-4.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/passninger/passninger-4.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1573913949960909" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/passninger/passninger-5.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/passninger/passninger-5.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1161947338577807" target="_blank">Facebook</a></p>
+  </div>
+</div>
+
 ## Dribling
 
 Dribling er en annen viktig ferdighet i fotball. Det handler om å kunne føre ballen forbi motstandere og skape rom for seg selv og medspillere.
 Her kommer noen videoer som viser forskjellige øvelser for å forbedre dribleferdighetene dine.
+
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 8px; scroll-snap-type: x mandatory;">
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/dribling/dribling-1.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/dribling/dribling-1.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/dribling/dribling-2.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/dribling/dribling-2.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/610222318569150" target="_blank">Facebook</a></p>
+  </div>
+</div>
 
 ## Avslutning
 
 Avslutning er en av de mest avgjørende ferdighetene i fotball. Det handler om å kunne score mål, og det krever både teknikk og presisjon.
 Her kommer noen videoer som viser forskjellige øvelser for å forbedre avslutningsferdighetene dine.
 
-## Keepertrening
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 8px; scroll-snap-type: x mandatory;">
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/avsluttning/avsluttning-1.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/avsluttning/avsluttning-1.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/avsluttning/avsluttning-2.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/avsluttning/avsluttning-2.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/610222318569150" target="_blank">Facebook</a></p>
+  </div>
+</div>
+
+## Forsvar
+
+Forsvar er en viktig del av fotball, og det er viktig å kunne lese spillet og posisjonere seg riktig for å hindre motstanderen i å score.
+Her kommer noen videoer som viser forskjellige øvelser for å forbedre forsvarsferdighetene dine.
+
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 8px; scroll-snap-type: x mandatory;">
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/forsvar/forsvar-1.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/forsvar/forsvar-1.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/forsvar/forsvar-2.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/forsvar/forsvar-2.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/610222318569150" target="_blank">Facebook</a></p>
+  </div>
+</div>
+
+## Keeper
 
 Keepertrening er en viktig del av fotball, og det er viktig for keepere å trene på spesifikke ferdigheter som redninger, posisjonering og distribusjon.
 Her kommer noen videoer som viser forskjellige øvelser for å forbedre keeperferdighetene dine.
+
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 8px; scroll-snap-type: x mandatory;">
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/keeper/keeper-1.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/keeper/keeper-1.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
+  </div>
+</div>

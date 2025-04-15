@@ -4,6 +4,16 @@ author: "Lewi Lie Uberg"
 
 # Treningsplan
 
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X5TVX1RNG8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X5TVX1RNG8');
+</script>
+
 Forslag til treningsplan for barn i alderen 10-14 år. Denne planen er laget for å gi en oversikt over hva som kan gjøres i løpet av treningsøktene. Den brukes som en mal og kan tilpasses etter behov og spillernes ferdighetsnivå. Om de faste trenerene ikke er tilgjengelig, kan vikar trenere bruke denne planen som en guide.
 
 ??? muil "Informasjon til de involvert"

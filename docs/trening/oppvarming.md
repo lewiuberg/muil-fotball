@@ -1,3 +1,13 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-X5TVX1RNG8"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-X5TVX1RNG8');
+</script>
+
 Øvelsene er inspirert av skadefri.no, og Preben "Legenden" Rønningen, som anbefales for fotballspillere på alle nivåer. For mer informasjon, se: [Skadefri Fotball](https://skadefri.no/idretter/fotball/skadefri-fotball/).
 
 - Hold intensiteten moderat til høy, men fokus på teknisk riktig utførelse.

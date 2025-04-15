@@ -7,16 +7,6 @@ hide:
 
 # Velkommen til Muil Fotball
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-X5TVX1RNG8"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-X5TVX1RNG8');
-</script>
-
 Velkommen til Muil Fotball sin nettside! Her finner du informasjon om egentrening, oppvarming og andre ressurser for å utvikle deg som fotballspiller.
 
 <video autoplay loop muted controls width="250">

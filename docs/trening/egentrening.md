@@ -18,7 +18,13 @@ Lykke til med treningen!
 Plyometrisk trening er en form for trening som fokuserer på å utvikle eksplosiv styrke og hurtighet. Dette kan være spesielt nyttig for fotballspillere, da det kan forbedre både sprint og hopp.
 
 <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/plyometrisk/plyometrisk-1.png?raw=true" style="margin-bottom: 0;">
-   <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/plyometrisk/plyometrisk-1.mp4?raw=true" type="video/mp4">
+  <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/plyometrisk/plyometrisk-1.mp4?raw=true" type="video/mp4">
+  Din nettleser støtter dessverre ikke videoavspilling.
+</video>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
+
+<video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/plyometrisk/plyometrisk-2.png?raw=true" style="margin-bottom: 0;">
+  <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/plyometrisk/plyometrisk-2.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
 <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1684568292434902" target="_blank">Facebook</a></p>
@@ -28,7 +34,7 @@ Plyometrisk trening er en form for trening som fokuserer på å utvikle eksplosi
 Ballkontroll er en viktig ferdighet for enhver fotballspiller. Det handler om å kunne håndtere ballen på en effektiv måte, både med og uten motstand.
 Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen videoer som viser forskjellige øvelser for å forbedre ballkontrollen din.
 
-<video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-1.png?raw=true" style="margin-bottom: 0;">
+<!-- <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-1.png?raw=true" style="margin-bottom: 0;">
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-1.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
@@ -72,7 +78,57 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
    <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-6.mp4?raw=true" type="video/mp4">
   Din nettleser støtter dessverre ikke videoavspilling.
 </video>
-<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/9413257655427084" target="_blank">Facebook</a></p>
+<p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/9413257655427084" target="_blank">Facebook</a></p> -->
+
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 8px; scroll-snap-type: x mandatory;">
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-1.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-1.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/627862289922698" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-2.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-2.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/973259714959151" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-3.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-3.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1625209828383858" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-4.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-4.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1573913949960909" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-5.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-5.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1161947338577807" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="300" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/ballkontroll/ballkontroll-6.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/ballkontroll/ballkontroll-6.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/9413257655427084" target="_blank">Facebook</a></p>
+  </div>
+</div>
 
 ## Passninger
 

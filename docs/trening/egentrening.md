@@ -177,6 +177,14 @@ Her kommer noen videoer som viser forskjellige øvelser for å forbedre driblefe
     </video>
     <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/514487794326369" target="_blank">Facebook</a></p>
   </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/dribling/dribling-3.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/videos/dribling/dribling-3.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.youtube.com/shorts/tD67iZFST1U" target="_blank">YouTube</a></p>
+  </div>
 </div>
 
 ## Avslutning

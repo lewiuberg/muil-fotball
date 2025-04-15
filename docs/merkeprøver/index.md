@@ -25,10 +25,12 @@ Norges Fotballforbund tilbyr to merkeprøver: Minimerket og Teknikkmerket (tidli
 
 <!-- include image with width 250: "https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/merkeprøver/merkeprøver-1.png?raw=true" -->
 
-<img src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/merkeprøver/merkeprøver-1.png?raw=true" alt="Merkeprøver" width="250">
+<img src="https://github.com/lewiuberg/muil-fotball/blob/master/docs/assets/img/merkeprøver/merkeprøver-1.jpg?raw=true" alt="Merkeprøver" width="800">
 
-Fotballferdighet = Valg av handling + utførelse av handling til fordel for laget. NFFs merkeprøver dreier seg om teknikk (utførelse) og ikke valget, som jo er en sentral del av fotballferdigheten og som må trenes på i andre sammenhenger (mye småspill). Derav endring i navn fra Ferdighetsmerket til Teknikkmerket.  
-Minimerket
+Fotballferdighet = Valg av handling + utførelse av handling til fordel for laget. NFFs merkeprøver dreier seg om teknikk (utførelse) og ikke valget, som jo er en sentral del av fotballferdigheten og som må trenes på i andre sammenhenger (mye småspill). Derav endring i navn fra Ferdighetsmerket til Teknikkmerket.
+
+## Minimerket
+
 Alle gutter og jenter kan ta Minimerket I og 2 til og med det året de fyller 12 år. Minimerket består av to nivå, Minimerke I (blått) og Minimerke II (rødt). De som ønsker å gå videre til Teknikkmerket bør først ha tatt Minimerke I og 2.
 Teknikkmerket
 Alle gutter og jenter kan ta Teknikkmerket til og med det året de fyller 14 år. Teknikkmerket finnes i fem ulike varianter; blått, rødt, bronse, sølv og gull.

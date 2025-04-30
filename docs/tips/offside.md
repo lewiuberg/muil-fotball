@@ -1,6 +1,6 @@
 # ⚽ Hva er offside? (For 12-åringer)
 
-<img src="https://raw.githubusercontent.com/lewiuberg/muil-fotball/refs/heads/master/docs/assets/img/tips/offside-1.png" alt="Offside" style="width: auto; height: 200px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
+<img src="https://raw.githubusercontent.com/lewiuberg/muil-fotball/refs/heads/master/docs/assets/img/tips/offside-1.png" alt="Offside" style="width: auto; height: 400px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;">
 
 **Offside** handler om at en spiller ikke kan stå for langt foran forsvarerne når laget prøver å score mål. Det er en regel som gjør spillet mer rettferdig og morsomt.
 

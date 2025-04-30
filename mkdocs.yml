@@ -156,5 +156,7 @@ nav:
       - Oppvarming: trening/oppvarming.md
       - Egentrening: trening/egentrening.md
       - Treningsplan: trening/treningsplan.md
+  - Tips:
+      - Offside: tips/offside.md
   - Merkeprøver:
       - merkeprøver/index.md

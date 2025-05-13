@@ -106,6 +106,14 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
     </video>
     <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/527602719600458" target="_blank">Facebook</a></p>
   </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/img/ballkontroll/ballkontroll-8.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/videos/ballkontroll/ballkontroll-8.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/533371596512674" target="_blank">Facebook</a></p>
+  </div>
 </div>
 
 ## Passninger

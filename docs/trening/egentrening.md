@@ -114,6 +114,22 @@ Det er viktig å trene på ballkontroll for å bli en bedre spiller. Her er noen
     </video>
     <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/533371596512674" target="_blank">Facebook</a></p>
   </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/img/ballkontroll/ballkontroll-9.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/videos/ballkontroll/ballkontroll-9.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/595141729982549" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/img/ballkontroll/ballkontroll-10.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/videos/ballkontroll/ballkontroll-10.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/656673187042433" target="_blank">Facebook</a></p>
+  </div>
 </div>
 
 ## Passninger
@@ -160,6 +176,14 @@ Her kommer noen videoer som viser forskjellige øvelser for å forbedre pasnings
       Din nettleser støtter dessverre ikke videoavspilling.
     </video>
     <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/8459088270819823" target="_blank">Facebook</a></p>
+  </div>
+
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/img/passninger/passninger-6.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/videos/passninger/passninger-6.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/1057590872844695" target="_blank">Facebook</a></p>
   </div>
 </div>
 
@@ -263,5 +287,20 @@ Her kommer noen videoer som viser forskjellige øvelser for å forbedre keeperfe
       Din nettleser støtter dessverre ikke videoavspilling.
     </video>
     <p style="margin: 0;">Kilde: <a href="https://www.youtube.com/shorts/QMi_LmVUm44" target="_blank">YouTube</a></p>
+  </div>
+</div>
+
+## Spill
+
+Spillforståelse er en viktig del av fotball, og det handler om å kunne lese spillet, posisjonere seg riktig og ta gode beslutninger.
+Her kommer noen videoer som viser forskjellige øvelser for å forbedre spillforståelsen din.
+
+<div style="display: flex; overflow-x: auto; gap: 16px; padding: 8px; scroll-snap-type: x mandatory;">
+  <div style="flex: 0 0 auto; scroll-snap-align: start;">
+    <video controls width="250" poster="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/img/spill/spill-1.png?raw=true" style="margin-bottom: 0;">
+      <source src="https://github.com/lewiuberg/muil-fotball/raw/refs/heads/master/docs/assets/videos/spill/spill-1.mp4?raw=true" type="video/mp4">
+      Din nettleser støtter dessverre ikke videoavspilling.
+    </video>
+    <p style="margin: 0;">Kilde: <a href="https://www.facebook.com/reel/645906934832198" target="_blank">Facebook</a></p>
   </div>
 </div>

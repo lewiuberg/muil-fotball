@@ -9,7 +9,15 @@
 - I fjor var det ikke badevakter til stede i bassenget, så det er på eget ansvar. Trenere er ikke ansvarlige for tilsyn i bassenget.
 - Alle lag som har fri og annledning til å se/heie på kampene til andre Myra-lag, oppfordres til å gjøre dette. Det er viktig at vi støtter hverandre!
 
-## 2012
+## Pakke liste
+
+- Kampdrakt - Trøye, shorts og strømper, sko, leggskinn
+- Pass eller annet ID
+- Tape?
+- Badetøy
+- Håndkle til basseng
+
+## 2012 🤩
 
 ---
 
@@ -84,7 +92,7 @@
 
 ---
 
-## 2013
+## 2013 🥳
 
 ---
 
@@ -167,7 +175,7 @@
 
 ---
 
-## 2014
+## 2014 🥰
 
 !!! info "Mer informasjon kommer"
 

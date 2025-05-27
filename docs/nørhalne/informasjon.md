@@ -253,7 +253,7 @@ DBF = Danland Blokhus feriesenter<br>
 Høkervej 5<br>
 9492 Blokhus
 
-??? info "Klikk for kart"
+??? muil "Klikk for kart"
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d111240.5662249724!2d9.498027044447761!3d57.25213484256965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x4649205f66b14273%3A0x97fb92e22181d1fc!2sH%C3%B8kervej%205%2C%209492%20Blokhus%2C%20Danmark!3m2!1d57.252161799999996!2d9.580426899999999!5e1!3m2!1sno!2sno!4v1748344082670!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -262,7 +262,7 @@ NRH = Nørhalne Stadion<br>
 Gustav Zimmersvej 27<br>
 Nørhalne 9430 Vadum
 
-??? info "Klikk for kart"
+??? muil "Klikk for kart"
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2569.581172678246!2d9.879398779880287!3d57.14991544808321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4649205f5e2b8ae7%3A0x6aff0e4380a25919!2sBlokhus%20Badeland%2C%20H%C3%B8kervej%2C%20Blokhus%2C%20Danmark!3m2!1d57.2524167!2d9.580706!4m5!1s0x46492c1d80a40c67%3A0x485e37ddeb896f63!2sGustav%20Zimmersvej%2027%2C%20Vadum%2C%20Danmark!3m2!1d57.14985!2d9.880816!5e1!3m2!1sno!2sno!4v1748339482009!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -271,7 +271,7 @@ AABY = Åbybro Stadion<br>
 Viaduktvej 28<br>
 9440 Åbybro
 
-??? info "Klikk for kart"
+??? muil "Klikk for kart"
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3214.0258457086206!2d9.718248944049344!3d57.16235002062174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4649205f5e2b8ae7%3A0x6aff0e4380a25919!2sBlokhus%20Badeland%2C%20H%C3%B8kervej%2C%20Blokhus%2C%20Danmark!3m2!1d57.2524167!2d9.580706!4m5!1s0x464925e9a21a3059%3A0xaae65af7904400a6!2sViaduktvej%2028B%2C%209440%20Aabybro%2C%20Danmark!3m2!1d57.161438!2d9.7197594!5e1!3m2!1sno!2sno!4v1748339432461!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
@@ -280,6 +280,6 @@ BROV = Brovst Stadion<br>
 Damengvej 2<br>
 9460 Brovst
 
-??? info "Klikk for kart"
+??? muil "Klikk for kart"
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1745.2897307605328!2d9.522724707760199!3d57.100290527480524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4649205f5e2b8ae7%3A0x6aff0e4380a25919!2sBlokhus%20Badeland%2C%20H%C3%B8kervej%2C%20Blokhus%2C%20Danmark!3m2!1d57.2524167!2d9.580706!4m5!1s0x46493d2ace780a83%3A0x202cd597e13d4f66!2sDamengvej%202%2C%209460%20Brovst%2C%20Danmark!3m2!1d57.1005715!2d9.5224931!5e1!3m2!1sno!2sno!4v1748339280925!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

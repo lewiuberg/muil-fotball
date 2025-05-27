@@ -35,33 +35,33 @@
 
 ### Torsdag 29. mai
 
-| Tid         | Aktivitet                                |
-| ----------- | ---------------------------------------- |
-| 07:15       | Morgenmad for spillere og trenere        |
-| 08:00       | Avreise til kamp-arena                   |
-| 09:00       | Kamp 1: Myra – Fløy IL, Bane A1-NRH [^1] |
-| 09:40–13:30 | Fritid                                   |
-| 13:30       | Oppmøte på stadion før kamp nr. 2        |
-| 14:00       | Kamp 2: Myra – Donn 2, Bane A3-NRH [^1]  |
-| 14:40       | Fritid                                   |
-| 18:30       | Aftensmad for spillere og trenere        |
-| 19:00       | Fritid                                   |
+| Tid         | Aktivitet                                                                                      |
+| ----------- | ---------------------------------------------------------------------------------------------- |
+| 07:15       | Morgenmad for spillere og trenere                                                              |
+| 08:00       | Avreise til kamp-arena                                                                         |
+| 09:00       | <span style="font-weight:bold; color:#d32f2f;">Kamp 1: Myra – Fløy IL, Bane A1-NRH [^1]</span> |
+| 09:40–13:30 | Fritid                                                                                         |
+| 13:30       | Oppmøte på stadion før kamp nr. 2                                                              |
+| 14:00       | <span style="font-weight:bold; color:#d32f2f;">Kamp 2: Myra – Donn 2, Bane A3-NRH [^1]</span>  |
+| 14:40       | Fritid                                                                                         |
+| 18:30       | Aftensmad for spillere og trenere                                                              |
+| 19:00       | Fritid                                                                                         |
 
 ---
 
 ### Fredag 30. mai
 
-| Tid         | Aktivitet                                 |
-| ----------- | ----------------------------------------- |
-| 07:15       | Morgenmad for spillere og trenere         |
-| 08:00       | Avreise til kamp-arena                    |
-| 09:00       | Kamp 3: Myra – Bagsværd, Bane A7-NRH [^1] |
-| 09:40–12:40 | Fritid                                    |
-| 12:40       | Oppmøte på stadion før kamp nr. 4         |
-| 13:10       | Kamp 4: Myra – Lyn FK, Bane A6-NRH [^1]   |
-| 14:30–19:00 | Fårup!                                    |
-| 19:30       | Aftensmad for spillere og trenere         |
-| 20:00       | Fritid                                    |
+| Tid         | Aktivitet                                                                                       |
+| ----------- | ----------------------------------------------------------------------------------------------- |
+| 07:15       | Morgenmad for spillere og trenere                                                               |
+| 08:00       | Avreise til kamp-arena                                                                          |
+| 09:00       | <span style="font-weight:bold; color:#d32f2f;">Kamp 3: Myra – Bagsværd, Bane A7-NRH [^1]</span> |
+| 09:40–12:40 | Fritid                                                                                          |
+| 12:40       | Oppmøte på stadion før kamp nr. 4                                                               |
+| 13:10       | <span style="font-weight:bold; color:#d32f2f;">Kamp 4: Myra – Lyn FK, Bane A6-NRH [^1]</span>   |
+| 14:30–19:00 | Fårup!                                                                                          |
+| 19:30       | Aftensmad for spillere og trenere                                                               |
+| 20:00       | Fritid                                                                                          |
 
 ---
 

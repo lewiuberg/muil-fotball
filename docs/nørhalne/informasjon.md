@@ -86,6 +86,68 @@ Se [Turneringens regler](https://www.norhalne-cup.dk/turneringens-regler-90) for
 
 ---
 
+## Kamp kalender
+
+<div style="overflow-x:auto;">
+  <table style="min-width:700px; border-collapse:separate; border-spacing:0 8px;">
+    <thead>
+      <tr>
+        <th style="padding:8px 16px; background:#f3f3f3; border-radius:8px 8px 0 0;">Torsdag 29. mai</th>
+        <th style="padding:8px 16px; background:#f3f3f3; border-radius:8px 8px 0 0;">Fredag 30. mai</th>
+        <th style="padding:8px 16px; background:#f3f3f3; border-radius:8px 8px 0 0;">Lørdag 31. mai</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <!-- Torsdag -->
+        <td style="vertical-align:top; padding:0 16px;">
+          <div><strong>09:00</strong> – <span style="color:#2E86C1; font-weight:bold;">2012</span>: Myra IL – Fløy IL</div>
+          <div><strong>09:50</strong> – <span style="color:#28B463; font-weight:bold;">2014</span>: Myra – Randesund 4 🟢</div>
+          <div><strong>10:40</strong> – <span style="color:#CA6F1E; font-weight:bold;">2013</span>: Myra IL – Øster Han Herred 🟢</div>
+          <div><strong>12:20</strong> – <span style="color:#CA6F1E; font-weight:bold;">2013</span>: Myra IL – Ikast FC</div>
+          <div><strong>14:00</strong> – <span style="color:#2E86C1; font-weight:bold;">2012</span>: Myra IL – Donn 2 🟦🟩</div>
+          <div><strong>14:00</strong> – <span style="color:#CA6F1E; font-weight:bold;">2013</span>: Myra IL – Randesund IL 2 🟦🟧</div>
+          <div><strong>14:00</strong> – <span style="color:#28B463; font-weight:bold;">2014</span>: MG&amp;BK - Myra 🟩🟧</div>
+          <div><strong>17:20</strong> – <span style="color:#28B463; font-weight:bold;">2014</span>: Virup - Myra</div>
+        </td>
+        <!-- Fredag -->
+        <td style="vertical-align:top; padding:0 16px;">
+          <div><strong>09:00</strong> – <span style="color:#2E86C1; font-weight:bold;">2012</span>: Myra IL – Bagsværd</div>
+          <div><strong>10:40</strong> – <span style="color:#CA6F1E; font-weight:bold;">2013</span>: Myra IL – FK Donn 2 🟧</div>
+          <div><strong>10:40</strong> – <span style="color:#28B463; font-weight:bold;">2014</span>: Myra – VBN 🟧</div>
+          <div><strong>13:10</strong> – <span style="color:#2E86C1; font-weight:bold;">2012</span>: Myra IL – Lyn FK</div>
+        </td>
+        <!-- Lørdag -->
+        <td style="vertical-align:top; padding:0 16px;">
+          <div><strong>09:00</strong> – <span style="color:#28B463; font-weight:bold;">2014</span>: Aab - Myra 🟢</div>
+          <div><strong>09:00 eller 09:50</strong> – <span style="color:#2E86C1; font-weight:bold;">2012</span>: Kvartfinale! 🟦</div>
+          <div><strong>09:00 eller 09:50</strong> – <span style="color:#CA6F1E; font-weight:bold;">2013</span>: Kvartfinale! 🟦</div>
+          <div><strong>10:40 eller 11:30</strong> – <span style="color:#2E86C1; font-weight:bold;">2012</span>: Semifinale!</div>
+          <div><strong>10:40 eller 11:30</strong> – <span style="color:#CA6F1E; font-weight:bold;">2013</span>: Semifinale!</div>
+          <div><strong>12:20</strong> – <span style="color:#28B463; font-weight:bold;">2014</span>: Myra – Youth Dreams Project</div>
+          <div><strong>12:20 eller 13:10</strong> – <span style="color:#2E86C1; font-weight:bold;">2012</span>: Finale eller bronsefinale!</div>
+          <div><strong>12:20 eller 13:10</strong> – <span style="color:#CA6F1E; font-weight:bold;">2013</span>: Finale eller bronsefinale!</div>
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<div style="margin-top: 1em; font-size: 0.95em;">
+  <strong>Fargekoder:</strong>
+  <span style="color:#2E86C1; font-weight:bold;">2012</span>,
+  <span style="color:#CA6F1E; font-weight:bold;">2013</span>,
+  <span style="color:#28B463; font-weight:bold;">2014</span>
+  <br>
+  <strong>Symbolforklaring for kamper som spilles innenfor 1,5 time:</strong><br>
+  🟦 = 2012 og 2013 spilles innenfor 1,5 time<br>
+  🟩 = 2012 og 2014 spilles innenfor 1,5 time<br>
+  🟧 = 2013 og 2014 spilles innenfor 1,5 time<br>
+  🟢 = 2012, 2013 og 2014 alle har kamp innenfor 1,5 time<br>
+</div>
+
+---
+
 ## Dagsplan
 
 Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i bunnen av denne siden.

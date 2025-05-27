@@ -6,7 +6,7 @@ author: "Lewi Lie Uberg"
 
 <div class="annotate" markdown>
 <ul>
-<li>Vi skal bo på Danland Blokhus feriesenter, adresse: Høkervej 5, 9492 Blokhus.</li>
+<li>Vi skal bo på <a href="#dbf">Danland Blokhus feriesenter</a>.</li>
 <li>Vi anbefaler å laste ned ProCup appen (1) for oppdatert kampinformasjon.</li>
 </ul>
 </div>
@@ -161,7 +161,7 @@ Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i 
     | 10:10       | Oppmøte på stadion før kamp nr.4                                                                        |
     | 10:40       | <a href="#aaby" style="font-weight:bold; color:#356F4B;">Kamp 4: Myra IL – FK Donn 2, Bane D14-AABY</a> |
     | 11:25       | Fritid                                                                                                  |
-    | 13:00–19:00 | Fårup!                                                                                                  |
+    | 14:30–19:00 | Fårup!                                                                                                  |
     | 19:30       | Kveldsmat for spillere og trenere                                                                       |
     | 20:00       | Fritid                                                                                                  |
 
@@ -175,6 +175,7 @@ Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i 
     | 10:40       | <a href="#brov" style="font-weight:bold; color:#356F4B;">Kamp 4: Myra – VBN, Bane L3-BROV [^3]</a> |
     | 14:30–19:00 | Fårup!                                                                                             |
     | 19:30       | Kveldsmat for spillere og trenere                                                                  |
+    | 20:00       | Fritid                                                                                             |
 
 ### Lørdag 31. mai
 
@@ -194,13 +195,8 @@ Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i 
 
 === "2013"
 
-    !!! warning "Endringer kan forekomme"
-
-        Dette er tidsplanen for **2012**, tidspunktene må sjekkes for 2013.
-
     | Tid               | Aktivitet                                     |
     | ----------------- | --------------------------------------------- |
-    | 06:45             | Frokost for spillere og trenere               |
     | 07:15             | Frokost for spillere og trenere               |
     | 08:00             | Avreise til kamp-arena                        |
     | 09:00 eller 09:50 | Kvartfinale!                                  |
@@ -223,6 +219,7 @@ Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i 
     | 11:50 | Oppmøte på stadion til kamp 6                                                                                |
     | 12:20 | <span style="font-weight:bold; color:#356F4B;">Kamp 6: Myra – Youth Dreams Project, Bane L7-BROV [^3]</span> |
     | 13:00 | Fritid!                                                                                                      |
+    | 18:00 | Kveldsmat for spillere og trenere                                                                            |
     | 19:30 | Felles grilling for hele reisefølget fra MUIL!                                                               |
 
 ### Søndag 1. juni
@@ -238,6 +235,15 @@ Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i 
 
 ## Takk for turen! 💚
 
+<a id="dbf"></a>
+DBF = Danland Blokhus feriesenter<br>
+Høkervej 5<br>
+9492 Blokhus
+
+??? info "Klikk for kart"
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m23!1m12!1m3!1d111240.5662249724!2d9.498027044447761!3d57.25213484256965!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m8!3e6!4m0!4m5!1s0x4649205f66b14273%3A0x97fb92e22181d1fc!2sH%C3%B8kervej%205%2C%209492%20Blokhus%2C%20Danmark!3m2!1d57.252161799999996!2d9.580426899999999!5e1!3m2!1sno!2sno!4v1748344082670!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
 <a id="nrh"></a>
 NRH = Nørhalne Stadion<br>
 Gustav Zimmersvej 27<br>
@@ -246,8 +252,6 @@ Nørhalne 9430 Vadum
 ??? info "Klikk for kart"
 
     <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2569.581172678246!2d9.879398779880287!3d57.14991544808321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4649205f5e2b8ae7%3A0x6aff0e4380a25919!2sBlokhus%20Badeland%2C%20H%C3%B8kervej%2C%20Blokhus%2C%20Danmark!3m2!1d57.2524167!2d9.580706!4m5!1s0x46492c1d80a40c67%3A0x485e37ddeb896f63!2sGustav%20Zimmersvej%2027%2C%20Vadum%2C%20Danmark!3m2!1d57.14985!2d9.880816!5e1!3m2!1sno!2sno!4v1748339482009!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-
----
 
 <a id="aaby"></a>
 AABY = Åbybro Stadion<br>

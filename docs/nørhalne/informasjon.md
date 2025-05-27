@@ -92,9 +92,9 @@ Se [Turneringens regler](https://www.norhalne-cup.dk/turneringens-regler-90) for
   <table style="min-width:700px; border-collapse:separate; border-spacing:0 8px;">
     <thead>
       <tr>
-        <th style="padding:8px 16px; background:#f3f3f3; border-radius:8px 8px 0 0;">Torsdag 29. mai</th>
-        <th style="padding:8px 16px; background:#f3f3f3; border-radius:8px 8px 0 0;">Fredag 30. mai</th>
-        <th style="padding:8px 16px; background:#f3f3f3; border-radius:8px 8px 0 0;">Lørdag 31. mai</th>
+        <th style="padding:8px 16px; background:var(--kampkalender-header-bg,#222); color:var(--kampkalender-header-color,#fff); border-radius:8px 8px 0 0;">Torsdag 29. mai</th>
+        <th style="padding:8px 16px; background:var(--kampkalender-header-bg,#222); color:var(--kampkalender-header-color,#fff); border-radius:8px 8px 0 0;">Fredag 30. mai</th>
+        <th style="padding:8px 16px; background:var(--kampkalender-header-bg,#222); color:var(--kampkalender-header-color,#fff); border-radius:8px 8px 0 0;">Lørdag 31. mai</th>
       </tr>
     </thead>
     <tbody>
@@ -132,6 +132,19 @@ Se [Turneringens regler](https://www.norhalne-cup.dk/turneringens-regler-90) for
     </tbody>
   </table>
 </div>
+
+<style>
+:root {
+  --kampkalender-header-bg: #222;
+  --kampkalender-header-color: #fff;
+}
+@media (prefers-color-scheme: light) {
+  :root {
+    --kampkalender-header-bg: #f3f3f3;
+    --kampkalender-header-color: #222;
+  }
+}
+</style>
 
 <div style="margin-top: 1em; font-size: 0.95em;">
   <strong>Fargekoder:</strong>

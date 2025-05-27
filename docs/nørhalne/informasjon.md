@@ -4,14 +4,37 @@ author: "Lewi Lie Uberg"
 
 # Informasjon
 
-- Vi skal bo på Danland Blokhus feriesenter, adresse: Høkervej 5, 9492 Blokhus.
+<div class="annotate" markdown>
+<ul>
+<li>Vi skal bo på Danland Blokhus feriesenter, adresse: Høkervej 5, 9492 Blokhus.</li>
+<li>Vi anbefaler å laste ned ProCup appen (1) for oppdatert kampinformasjon.</li>
+</ul>
+</div>
+
+1.  [App Store](https://apps.apple.com/se/app/procup/id1483626775) | [Google Play](https://play.google.com/store/apps/details?id=com.optime.procup)
+
+---
+
+## Pakke liste
+
+- Pass eller annet ID
+- Kampdrakt - Trøye, shorts og strømper, sko, leggskinn
+- Solkrem
+- Tape?
+- Geleputer til hælene?
+- Gnagsårplaster?
+- Badetøy og håndkle
+
+---
 
 ## Måltider
 
 - Ingen inkluderte måltider på onsdag og butikker stenger tidligere i Danmark, så det er lurt å ha med seg mat til kvelden.
-- Frokost for spillere og trenere serveres på feriesenteret hver dag fra torsdag til søndag kl. 06:30 til 09:00. Men se dagsplanen for når ditt lag skal spise frokost.
-- Lunsj til spillere og trenere spises på stadion mellom 11:00-13:00. Denne må hentes ut i nærheten, og vi oppfordrer noen andre enn trenere til å hente lunsj for laget.
-- Middag for spillere og trenere serveres på feriesenteret hver dag fra torsdag til lørdag kl. 18:00 til 21:00. Se dagsplanen for når ditt lag skal spise middag.
+- Frokost for spillere og trenere serveres på feriesenteret hver dag fra torsdag til søndag kl. 06:30 til 09:00. **Men se dagsplanen for når ditt lag skal spise frokost.**
+- Lunsj til spillere og trenere spises på stadion mellom 11:00-13:00. Denne må hentes ut i nærheten, og **vi oppfordrer noen andre enn trenere til å hente lunsj for laget.**
+- Middag for spillere og trenere serveres på feriesenteret hver dag fra torsdag til lørdag kl. 18:00 til 21:00. **Se dagsplanen for når ditt lag skal spise middag.**
+- Vi brenner av mye energi og svetter mye, så det er viktig at alle drikker nok vann og spiser godt. Det er også lurt å ha med seg lett og energiholdig mat til kampene, som frukt, nøtter, energibarer osv, samt godt med drikke.
+- Lørdag kveld kl. 19:30 er det felles grilling for hele reisefølget fra MUIL.
 
 ??? muil annotate "Meny"
 
@@ -28,14 +51,16 @@ author: "Lewi Lie Uberg"
 7.  :milk: Laktose
 8.  :bread: Gluten
 
+---
+
 ## Fritid
 
-- Vi anbefaler ikke bading i basseng mellom kampene. Men Blokhus har et badeland, så det er mulig å ta en tur dit etter kampene, gjerne samlet. I fjor var det ikke badevakter til stede i bassenget, så det er på eget ansvar. Trenere er ikke ansvarlige for tilsyn i bassenget.
-- Alle lag som har fri og annledning til å se/heie på kampene til andre Myra-lag, oppfordres til å gjøre dette. Det er viktig at vi støtter hverandre!
+- Blokhus har et badeland, så det er mulig å ta en tur dit etter kampene, gjerne _samlet på fredag etter kamper og før fårup_. **Vi anbefaler ikke bading i basseng mellom kampene.**
+- I fjor var det ikke badevakter til stede i bassenget, så det er på eget ansvar. **Trenere er ikke ansvarlige for tilsyn i bassenget.**
+- Dette er en felles tur for Myra 2012, 2013 og 2014, så vi oppfordrer først og fremst lagene internt å samkjøre hva man skal finne på av aktiviteter i fritiden. Men når det er mulig, så oppfordrer vi til å gjøre ting sammen på tvers av lagene.
+- Så oppfordrer vi alle til å heie på hverandres lag under kampene når det er mulig! **Det er stor stas for spillerne å ha supportere på tribunen.**
 
-## Kampplan
-
-- Alle kamp arena koder er oppgitt i kampplanen. Etter koden i kampplanen finner du en lenge som fører deg til riktig addresse som ligger i bunnen av denne sidens fotnote.
+---
 
 ## Fremhevede kampregler
 
@@ -44,88 +69,161 @@ author: "Lewi Lie Uberg"
 - Ingen offside
 - Gule og røde kort
 
-Alle våre kamper (foreløpig) vil foregå på BROV = Brovst Stadion.
-Adressen er Damengvej 2, 9460 Brovst (ca 29 min kjøring fra feriesenteret).
-Vi sikter på å møte klare til kamp 30 min før kampstart på riktig bane, gjerne litt før.
-
-Vi anbefaler å laste ned ProCup appen og få oppdatert kampinformasjon.
-Planlegg godt med drikke, avkjøling, lett og energiholdig mat og ikke minst solkrem.
+Se [Turneringens regler](https://www.norhalne-cup.dk/turneringens-regler-90) for mer informasjon.
 
 ---
 
-## Pakke liste
+## Dagsplan
 
-- Kampdrakt - Trøye, shorts og strømper, sko, leggskinn
-- Pass eller annet ID
-- Tape?
-- Badetøy
-- Håndkle til basseng
-
----
-
-## 2012 🤩
-
----
+Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i bunnen av denne siden.
 
 ### Onsdag 28. mai
 
 | Tid   | Aktivitet                                                            |
 | ----- | -------------------------------------------------------------------- |
-| 12:00 | Avreise fra Bunnpris?                                                |
+| 12:00 | Avreise fra Myra                                                     |
 | 13:05 | Utdeling av fergebilletter (før innsjekking i siste parkeringslomme) |
 | 14:20 | Avgang Kristiansand (Fjordline – MS Stavangerfjord)                  |
 | 18:15 | Ankomst Hirtshals                                                    |
 | 19:30 | Innsjekk på Blokhus                                                  |
 
----
-
 ### Torsdag 29. mai
 
-| Tid         | Aktivitet                                                                                      |
-| ----------- | ---------------------------------------------------------------------------------------------- |
-| 07:15       | Morgenmad for spillere og trenere                                                              |
-| 08:00       | Avreise til kamp-arena                                                                         |
-| 09:00       | <span style="font-weight:bold; color:#356F4B;">Kamp 1: Myra – Fløy IL, Bane A1-NRH [^1]</span> |
-| 09:40–13:30 | Fritid                                                                                         |
-| 13:30       | Oppmøte på stadion før kamp nr. 2                                                              |
-| 14:00       | <span style="font-weight:bold; color:#356F4B;">Kamp 2: Myra – Donn 2, Bane A3-NRH [^1]</span>  |
-| 14:40       | Fritid                                                                                         |
-| 18:30       | Aftensmad for spillere og trenere                                                              |
-| 19:00       | Fritid                                                                                         |
+=== "2012"
 
----
+    | Tid         | Aktivitet                                                                                          |
+    | ----------- | -------------------------------------------------------------------------------------------------- |
+    | 07:15       | Morgenmad for spillere og trenere                                                                  |
+    | 08:00       | Avreise til kamp-arena                                                                             |
+    | 09:00       | <a href="#nrh" style="font-weight:bold; color:#356F4B;">Kamp 1: Myra IL – Fløy IL, Bane A1-NRH</a> |
+    | 09:40–13:30 | Fritid                                                                                             |
+    | 13:30       | Oppmøte på stadion før kamp nr. 2                                                                  |
+    | 14:00       | <a href="#nrh" style="font-weight:bold; color:#356F4B;">Kamp 2: Myra IL – Donn 2, Bane A3-NRH</a>  |
+    | 14:40       | Fritid                                                                                             |
+    | 18:30       | Aftensmad for spillere og trenere                                                                  |
+    | 19:00       | Fritid                                                                                             |
+
+=== "2013"
+
+    | Tid   | Aktivitet                                                                                                     |
+    | ----- | ------------------------------------------------------------------------------------------------------------- |
+    | 08:30 | Frokost for spillere og trenere                                                                               |
+    | 09:40 | Avreise til kamp-arena                                                                                        |
+    | 10:10 | Oppmøte på stadion før kamp nr.1                                                                              |
+    | 10:40 | <a href="#aaby" style="font-weight:bold; color:#356F4B;">Kamp 1: Myra IL – Øster Han Herred, Bane D2-AABY</a> |
+    | 11:25 | Fritid                                                                                                        |
+    | 11:50 | Oppmøte på stadion før kamp nr.2                                                                              |
+    | 12:20 | <a href="#aaby" style="font-weight:bold; color:#356F4B;">Kamp 2: Myra IL – Ikast FC, Bane D10-AABY</a>        |
+    | 13:05 | Fritid                                                                                                        |
+    | 13:30 | Oppmøte på stadion før kamp nr.3                                                                              |
+    | 14:00 | <a href="#aaby" style="font-weight:bold; color:#356F4B;">Kamp 3: Myra IL – Randesund IL 2, Bane D14-AABY</a>  |
+    | 14:45 | Fritid                                                                                                        |
+    | 18:30 | Kveldsmat for spillere og trenere                                                                             |
+    | 19:00 | Fritid                                                                                                        |
+
+=== "2014"
+
+    | Tid   | Aktivitet                                                                                             |
+    | ----- | ----------------------------------------------------------------------------------------------------- |
+    | 07:15 | Frokost for spillere og trenere                                                                       |
+    | 08:00 | Avreise til stadion                                                                                   |
+    | 09:20 | Oppmøte på stadion til kamp 1                                                                         |
+    | 09:50 | <a href="#brov" style="font-weight:bold; color:#356F4B;">Kamp 1: Myra – Randesund 4, Bane L2-BROV</a> |
+    | 11:00 | Lunsj på stadion for spillere og trenere                                                              |
+    | 13:30 | Oppmøte på stadion til kamp 2                                                                         |
+    | 14:00 | <a href="#brov" style="font-weight:bold; color:#356F4B;">Kamp 2: MG&BK - Myra, Bane L4-BROV</a>       |
+    | 16:50 | Oppmøte på stadion til kamp 3                                                                         |
+    | 17:20 | <a href="#brov" style="font-weight:bold; color:#356F4B;">Kamp 3: Virup - Myra, Bane L3-BROV</a>       |
+    | 19:30 | Kveldsmat for spillere og trenere                                                                     |
 
 ### Fredag 30. mai
 
-| Tid         | Aktivitet                                                                                       |
-| ----------- | ----------------------------------------------------------------------------------------------- |
-| 07:15       | Morgenmad for spillere og trenere                                                               |
-| 08:00       | Avreise til kamp-arena                                                                          |
-| 09:00       | <span style="font-weight:bold; color:#356F4B;">Kamp 3: Myra – Bagsværd, Bane A7-NRH [^1]</span> |
-| 09:40–12:40 | Fritid                                                                                          |
-| 12:40       | Oppmøte på stadion før kamp nr. 4                                                               |
-| 13:10       | <span style="font-weight:bold; color:#356F4B;">Kamp 4: Myra – Lyn FK, Bane A6-NRH [^1]</span>   |
-| 14:30–19:00 | Fårup!                                                                                          |
-| 19:30       | Aftensmad for spillere og trenere                                                               |
-| 20:00       | Fritid                                                                                          |
+=== "2012"
 
----
+    | Tid         | Aktivitet                                                                                           |
+    | ----------- | --------------------------------------------------------------------------------------------------- |
+    | 07:15       | Morgenmad for spillere og trenere                                                                   |
+    | 08:00       | Avreise til kamp-arena                                                                              |
+    | 09:00       | <a href="#nrh" style="font-weight:bold; color:#356F4B;">Kamp 3: Myra IL – Bagsværd, Bane A7-NRH</a> |
+    | 09:40–12:40 | Fritid                                                                                              |
+    | 12:40       | Oppmøte på stadion før kamp nr. 4                                                                   |
+    | 13:10       | <a href="#nrh" style="font-weight:bold; color:#356F4B;">Kamp 4: Myra IL – Lyn FK, Bane A6-NRH</a>   |
+    | 14:30–19:00 | Fårup!                                                                                              |
+    | 19:30       | Aftensmad for spillere og trenere                                                                   |
+    | 20:00       | Fritid                                                                                              |
+
+=== "2013"
+
+    | Tid         | Aktivitet                                                                                               |
+    | ----------- | ------------------------------------------------------------------------------------------------------- |
+    | 08:30       | Frokost for spillere og trenere                                                                         |
+    | 09:40       | Avreise til kamp-arena                                                                                  |
+    | 10:10       | Oppmøte på stadion før kamp nr.4                                                                        |
+    | 10:40       | <a href="#aaby" style="font-weight:bold; color:#356F4B;">Kamp 4: Myra IL – FK Donn 2, Bane D14-AABY</a> |
+    | 11:25       | Fritid                                                                                                  |
+    | 13:00–19:00 | Fårup!                                                                                                  |
+    | 19:30       | Kveldsmat for spillere og trenere                                                                       |
+    | 20:00       | Fritid                                                                                                  |
+
+=== "2014"
+
+    | Tid         | Aktivitet                                                                                          |
+    | ----------- | -------------------------------------------------------------------------------------------------- |
+    | 07:15       | Frokost for spillere og trenere                                                                    |
+    | 09:00       | Avreise til stadion                                                                                |
+    | 10:10       | Oppmøte på stadion til kamp 4                                                                      |
+    | 10:40       | <a href="#brov" style="font-weight:bold; color:#356F4B;">Kamp 4: Myra – VBN, Bane L3-BROV [^3]</a> |
+    | 14:30–19:00 | Fårup!                                                                                             |
+    | 19:30       | Kveldsmat for spillere og trenere                                                                  |
 
 ### Lørdag 31. mai
 
-| Tid               | Aktivitet                                     |
-| ----------------- | --------------------------------------------- |
-| 07:15             | Morgenmad for spillere og trenere             |
-| 08:00             | Avreise til kamp-arena                        |
-| 09:00 eller 09:50 | Kvartfinale!                                  |
-| 10:30             | Lunsj for spillere og trenere (på stadion)    |
-| 10:40 eller 11:30 | Semifinale!                                   |
-| 12:20 eller 13:10 | Finale eller bronsefinale!                    |
-| 14:00             | Fritid!                                       |
-| 18:00             | Aftensmad for spillere og trenere             |
-| 19:30             | Felles grilling for hele reisefølget fra MUIL |
+=== "2012"
 
----
+    | Tid               | Aktivitet                                     |
+    | ----------------- | --------------------------------------------- |
+    | 07:15             | Morgenmad for spillere og trenere             |
+    | 08:00             | Avreise til kamp-arena                        |
+    | 09:00 eller 09:50 | Kvartfinale!                                  |
+    | 10:30             | Lunsj for spillere og trenere (på stadion)    |
+    | 10:40 eller 11:30 | Semifinale!                                   |
+    | 12:20 eller 13:10 | Finale eller bronsefinale!                    |
+    | 14:00             | Fritid!                                       |
+    | 18:00             | Aftensmad for spillere og trenere             |
+    | 19:30             | Felles grilling for hele reisefølget fra MUIL |
+
+=== "2013"
+
+    !!! warning "Endringer kan forekomme"
+
+        Dette er tidsplanen for **2012**, tidspunktene må sjekkes for 2013.
+
+    | Tid               | Aktivitet                                     |
+    | ----------------- | --------------------------------------------- |
+    | 06:45             | Frokost for spillere og trenere               |
+    | 07:15             | Frokost for spillere og trenere               |
+    | 08:00             | Avreise til kamp-arena                        |
+    | 09:00 eller 09:50 | Kvartfinale!                                  |
+    | 10:30             | Lunsj for spillere og trenere (på stadion)    |
+    | 10:40 eller 11:30 | Semifinale!                                   |
+    | 12:20 eller 13:10 | Finale eller bronsefinale!                    |
+    | 14:00             | Fritid!                                       |
+    | 18:00             | Kveldsmat for spillere og trenere             |
+    | 19:30             | Felles grilling for hele reisefølget fra MUIL |
+
+=== "2014"
+
+    | Tid   | Aktivitet                                                                                                    |
+    | ----- | ------------------------------------------------------------------------------------------------------------ |
+    | 07:00 | Frokost for spillere og trenere                                                                              |
+    | 07:45 | Avreise til stadion                                                                                          |
+    | 08:30 | Oppmøte på stadion til kamp 5                                                                                |
+    | 09:00 | <span style="font-weight:bold; color:#356F4B;">Kamp 5: Aab - Myra, Bane L5-BROV [^3]</span>                  |
+    | 10:30 | Lunsj på stadion for spillere og trenere                                                                     |
+    | 11:50 | Oppmøte på stadion til kamp 6                                                                                |
+    | 12:20 | <span style="font-weight:bold; color:#356F4B;">Kamp 6: Myra – Youth Dreams Project, Bane L7-BROV [^3]</span> |
+    | 13:00 | Fritid!                                                                                                      |
+    | 19:30 | Felles grilling for hele reisefølget fra MUIL!                                                               |
 
 ### Søndag 1. juni
 
@@ -138,174 +236,33 @@ Planlegg godt med drikke, avkjøling, lett og energiholdig mat og ikke minst sol
 
 ---
 
-## 2013 🥳
+## Takk for turen! 💚
+
+<a id="nrh"></a>
+NRH = Nørhalne Stadion<br>
+Gustav Zimmersvej 27<br>
+Nørhalne 9430 Vadum
+
+??? info "Klikk for kart"
+
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d2569.581172678246!2d9.879398779880287!3d57.14991544808321!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4649205f5e2b8ae7%3A0x6aff0e4380a25919!2sBlokhus%20Badeland%2C%20H%C3%B8kervej%2C%20Blokhus%2C%20Danmark!3m2!1d57.2524167!2d9.580706!4m5!1s0x46492c1d80a40c67%3A0x485e37ddeb896f63!2sGustav%20Zimmersvej%2027%2C%20Vadum%2C%20Danmark!3m2!1d57.14985!2d9.880816!5e1!3m2!1sno!2sno!4v1748339482009!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
 ---
 
-### Onsdag 28. mai
+<a id="aaby"></a>
+AABY = Åbybro Stadion<br>
+Viaduktvej 28<br>
+9440 Åbybro
 
-| Tid   | Aktivitet                                                            |
-| ----- | -------------------------------------------------------------------- |
-| 12:00 | Avreise fra Myra                                                     |
-| 13:05 | Utdeling av fergebilletter (før innsjekking i siste parkeringslomme) |
-| 14:20 | Avgang Kristiansand (Fjordline – MS Stavangerfjord)                  |
-| 18:15 | Ankomst Hirtshals                                                    |
-| 19:30 | Innsjekk på Blokhus                                                  |
+??? info "Klikk for kart"
 
----
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d3214.0258457086206!2d9.718248944049344!3d57.16235002062174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4649205f5e2b8ae7%3A0x6aff0e4380a25919!2sBlokhus%20Badeland%2C%20H%C3%B8kervej%2C%20Blokhus%2C%20Danmark!3m2!1d57.2524167!2d9.580706!4m5!1s0x464925e9a21a3059%3A0xaae65af7904400a6!2sViaduktvej%2028B%2C%209440%20Aabybro%2C%20Danmark!3m2!1d57.161438!2d9.7197594!5e1!3m2!1sno!2sno!4v1748339432461!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
-### Torsdag 29. mai
+<a id="brov"></a>
+BROV = Brovst Stadion<br>
+Damengvej 2<br>
+9460 Brovst
 
-| Tid   | Aktivitet                                                                                              |
-| ----- | ------------------------------------------------------------------------------------------------------ |
-| 08:30 | Frokost for spillere og trenere                                                                        |
-| 09:40 | Avreise til kamp-arena                                                                                 |
-| 10:10 | Oppmøte på stadion før kamp nr.1                                                                       |
-| 10:40 | <span style="font-weight:bold; color:#356F4B;">1: Myra IL – Øster Han Herred, Bane D2-AABY [^2]</span> |
-| 11:25 | Fritid                                                                                                 |
-| 11:50 | Oppmøte på stadion før kamp nr.2                                                                       |
-| 12:20 | <span style="font-weight:bold; color:#356F4B;">2: Myra IL – Ikast FC, Bane D10-AABY [^2]</span>        |
-| 13:05 | Fritid                                                                                                 |
-| 13:30 | Oppmøte på stadion før kamp nr.3                                                                       |
-| 14:00 | <span style="font-weight:bold; color:#356F4B;">3: Myra IL – Randesund IL 2, Bane D14-AABY [^2]</span>  |
-| 14:45 | Fritid                                                                                                 |
-| 18:30 | Kveldsmat for spillere og trenere                                                                      |
-| 19:00 | Fritid                                                                                                 |
+??? info "Klikk for kart"
 
----
-
-### Fredag 30. mai
-
-| Tid         | Aktivitet                                                                                        |
-| ----------- | ------------------------------------------------------------------------------------------------ |
-| 08:30       | Frokost for spillere og trenere                                                                  |
-| 09:40       | Avreise til kamp-arena                                                                           |
-| 10:10       | Oppmøte på stadion før kamp nr.4                                                                 |
-| 10:40       | <span style="font-weight:bold; color:#356F4B;">4: Myra IL – FK Donn 2, Bane D14-AABY [^2]</span> |
-| 11:25       | Fritid                                                                                           |
-| 13:00–19:00 | Fårup!                                                                                           |
-| 19:30       | Kveldsmat for spillere og trenere                                                                |
-| 20:00       | Fritid                                                                                           |
-
----
-
-### Lørdag 31. mai
-
-!!! warning "Endringer kan forekomme"
-
-    Dette er tidsplanen for **2012**, tidspunktene må sjekkes for 2013.
-
-| Tid               | Aktivitet                                     |
-| ----------------- | --------------------------------------------- |
-| 06:45             | Frokost for spillere og trenere               |
-| 07:15             | Frokost for spillere og trenere               |
-| 08:00             | Avreise til kamp-arena                        |
-| 09:00 eller 09:50 | Kvartfinale!                                  |
-| 10:30             | Lunsj for spillere og trenere (på stadion)    |
-| 10:40 eller 11:30 | Semifinale!                                   |
-| 12:20 eller 13:10 | Finale eller bronsefinale!                    |
-| 14:00             | Fritid!                                       |
-| 18:00             | Kveldsmat for spillere og trenere             |
-| 19:30             | Felles grilling for hele reisefølget fra MUIL |
-
----
-
-### Søndag 1. juni
-
-| Tid   | Aktivitet                                        |
-| ----- | ------------------------------------------------ |
-| 06:45 | Frokost for spillere og trenere                  |
-| 07:20 | Avreise fra Blokhus                              |
-| 09:30 | Avgang Hirtshals (Fjordline – MS Stavangerfjord) |
-| 13:25 | Ankomst Kristiansand                             |
-
----
-
-## 2014 🥰
-
----
-
-### Onsdag 28. mai
-
-| Tid   | Aktivitet                                                            |
-| ----- | -------------------------------------------------------------------- |
-| 13:00 | Utdeling av fergebilletter (før innsjekking i siste parkeringslomme) |
-| 14:20 | Avgang Kristiansand (Fjordline – MS Stavangerfjord)                  |
-| 18:15 | Ankomst Hirtshals                                                    |
-| 19:30 | Innsjekk på Blokhus                                                  |
-
----
-
-### Torsdag 29. mai
-
-| Tid   | Aktivitet                                                                                           |
-| ----- | --------------------------------------------------------------------------------------------------- |
-| 07:15 | Frokost for spillere og trenere                                                                     |
-| 08:00 | Avreise til stadion                                                                                 |
-| 09:20 | Oppmøte på stadion til kamp 1                                                                       |
-| 09:50 | <span style="font-weight:bold; color:#356F4B;">Kamp 1: Myra – Randesund 4, Bane L2-BROV [^3]</span> |
-| 11:00 | Lunsj på stadion for spillere og trenere                                                            |
-| 13:30 | Oppmøte på stadion til kamp 2                                                                       |
-| 14:00 | <span style="font-weight:bold; color:#356F4B;">Kamp 2: MG&BK - Myra, Bane L4-BROV [^3]</span>       |
-| 16:50 | Oppmøte på stadion til kamp 3                                                                       |
-| 17:20 | <span style="font-weight:bold; color:#356F4B;">Kamp 3: Virup - Myra, Bane L3-BROV [^3]</span>       |
-| 19:30 | Kveldsmat for spillere og trenere                                                                   |
-
----
-
-### Fredag 30. mai
-
-| Tid         | Aktivitet                                                                                   |
-| ----------- | ------------------------------------------------------------------------------------------- |
-| 07:15       | Frokost for spillere og trenere                                                             |
-| 09:00       | Avreise til stadion                                                                         |
-| 10:10       | Oppmøte på stadion til kamp 4                                                               |
-| 10:40       | <span style="font-weight:bold; color:#356F4B;">Kamp 4: Myra – VBN, Bane L3-BROV [^3]</span> |
-| 14:30–19:00 | Fårup!                                                                                      |
-| 19:30       | Kveldsmat for spillere og trenere                                                           |
-
----
-
-### Lørdag 31. mai
-
-| Tid   | Aktivitet                                                                                                    |
-| ----- | ------------------------------------------------------------------------------------------------------------ |
-| 07:00 | Frokost for spillere og trenere                                                                              |
-| 07:45 | Avreise til stadion                                                                                          |
-| 08:30 | Oppmøte på stadion til kamp 5                                                                                |
-| 09:00 | <span style="font-weight:bold; color:#356F4B;">Kamp 5: Aab - Myra, Bane L5-BROV [^3]</span>                  |
-| 10:30 | Lunsj på stadion for spillere og trenere                                                                     |
-| 11:50 | Oppmøte på stadion til kamp 6                                                                                |
-| 12:20 | <span style="font-weight:bold; color:#356F4B;">Kamp 6: Myra – Youth Dreams Project, Bane L7-BROV [^3]</span> |
-| 13:00 | Fritid!                                                                                                      |
-| 19:30 | Felles grilling for hele reisefølget fra MUIL!                                                               |
-
----
-
-### Søndag 1. juni
-
-| Tid   | Aktivitet                                        |
-| ----- | ------------------------------------------------ |
-| 06:45 | Frokost for spillere og trenere                  |
-| 07:20 | Avreise fra Blokhus                              |
-| 09:30 | Avgang Hirtshals (Fjordline – MS Stavangerfjord) |
-| 13:25 | Ankomst Kristiansand                             |
-
----
-
-Takk for turen! 💚
-
-[^1]:
-    NRH = Nørhalne Stadion
-    Gustav Zimmersvej 27
-    Nørhalne 9430 Vadum
-
-[^2]:
-    AABY = Åbybro Stadion
-    Viaduktvej 28
-    9440 Åbybro
-
-[^3]:
-    BROV = Brovst Stadion
-    Damengvej 2
-    9460 Brovst
+    <iframe src="https://www.google.com/maps/embed?pb=!1m28!1m12!1m3!1d1745.2897307605328!2d9.522724707760199!3d57.100290527480524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!4m13!3e0!4m5!1s0x4649205f5e2b8ae7%3A0x6aff0e4380a25919!2sBlokhus%20Badeland%2C%20H%C3%B8kervej%2C%20Blokhus%2C%20Danmark!3m2!1d57.2524167!2d9.580706!4m5!1s0x46493d2ace780a83%3A0x202cd597e13d4f66!2sDamengvej%202%2C%209460%20Brovst%2C%20Danmark!3m2!1d57.1005715!2d9.5224931!5e1!3m2!1sno!2sno!4v1748339280925!5m2!1sno!2sno" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

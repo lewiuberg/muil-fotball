@@ -1,0 +1,6 @@
+{
+  "cSpell.words": ["arkiv", "Forza"],
+  // "editor.defaultFormatter": null
+  // TODO: is there a better way to fix config types?
+  // "python.analysis.typeCheckingMode": "off"
+}

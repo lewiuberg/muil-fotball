@@ -172,7 +172,7 @@ Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i 
     | 07:15       | Frokost for spillere og trenere                                                                    |
     | 09:00       | Avreise til stadion                                                                                |
     | 10:10       | Oppmøte på stadion til kamp 4                                                                      |
-    | 10:40       | <a href="#brov" style="font-weight:bold; color:#356F4B;">Kamp 4: Myra – VBN, Bane L3-BROV [^3]</a> |
+    | 10:40       | <a href="#brov" style="font-weight:bold; color:#356F4B;">Kamp 4: Myra – VBN, Bane L3-BROV</a> |
     | 14:30–19:00 | Fårup!                                                                                             |
     | 19:30       | Kveldsmat for spillere og trenere                                                                  |
     | 20:00       | Fritid                                                                                             |
@@ -214,10 +214,10 @@ Addresser til kamp-arenaer finner du ved å klikke på kampen i planen, eller i 
     | 07:00 | Frokost for spillere og trenere                                                                              |
     | 07:45 | Avreise til stadion                                                                                          |
     | 08:30 | Oppmøte på stadion til kamp 5                                                                                |
-    | 09:00 | <span style="font-weight:bold; color:#356F4B;">Kamp 5: Aab - Myra, Bane L5-BROV [^3]</span>                  |
+    | 09:00 | <span style="font-weight:bold; color:#356F4B;">Kamp 5: Aab - Myra, Bane L5-BROV</span>                  |
     | 10:30 | Lunsj på stadion for spillere og trenere                                                                     |
     | 11:50 | Oppmøte på stadion til kamp 6                                                                                |
-    | 12:20 | <span style="font-weight:bold; color:#356F4B;">Kamp 6: Myra – Youth Dreams Project, Bane L7-BROV [^3]</span> |
+    | 12:20 | <span style="font-weight:bold; color:#356F4B;">Kamp 6: Myra – Youth Dreams Project, Bane L7-BROV</span> |
     | 13:00 | Fritid!                                                                                                      |
     | 18:00 | Kveldsmat for spillere og trenere                                                                            |
     | 19:30 | Felles grilling for hele reisefølget fra MUIL!                                                               |

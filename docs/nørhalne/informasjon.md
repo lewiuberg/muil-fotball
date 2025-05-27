@@ -15,10 +15,23 @@ author: "Lewi Lie Uberg"
 
 ---
 
+## Sponsorer
+
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(120px, 1fr)); gap: 32px; justify-items: center; align-items: center;">
+  <img src="https://raw.githubusercontent.com/lewiuberg/muil-fotball/refs/heads/master/docs/assets/img/nørhalne/spar.png" alt="Spar" style="max-height:90px; width:auto; object-fit:contain;" />
+  <img src="https://raw.githubusercontent.com/lewiuberg/muil-fotball/refs/heads/master/docs/assets/img/nørhalne/asko.png" alt="Asko" style="max-height:90px; width:auto; object-fit:contain;" />
+  <img src="https://raw.githubusercontent.com/lewiuberg/muil-fotball/refs/heads/master/docs/assets/img/nørhalne/WURTH.png" alt="Würth" style="max-height:90px; width:auto; object-fit:contain;" />
+  <img src="https://raw.githubusercontent.com/lewiuberg/muil-fotball/refs/heads/master/docs/assets/img/nørhalne/sperre.png" alt="Sperre" style="max-height:90px; width:auto; object-fit:contain;" />
+  <img src="https://raw.githubusercontent.com/lewiuberg/muil-fotball/refs/heads/master/docs/assets/img/nørhalne/pm.png" alt="PM" style="max-height:90px; width:auto; object-fit:contain;" />
+</div>
+
+---
+
 ## Pakke liste
 
 - Pass eller annet ID
 - Kampdrakt - Trøye, shorts og strømper, sko, leggskinn
+- MUIL skjerf, lue og drikkeflaske, eller annet MUIL stæsj
 - Solkrem
 - Tape?
 - Geleputer til hælene?
